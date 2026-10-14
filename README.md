@@ -35,7 +35,6 @@ Atualmente, dedico-me ao desenvolvimento de software, construção de APIs RESTf
 ---
 
 ### 📫 Vamos Conectar?
-
-- **LinkedIn:** [linkedin.com/in/higor-silva](https://www.linkedin.com/in/higor-silva)
-- **E-mail:** higor_silva97@hotmail.com
+ - **LinkedIn:** [linkedin.com/in/higor-silva-70671b286](https://www.linkedin.com/in/higor-silva-70671b286)
+- **LinkedIn:** [linkedin.com/in/higor-silva-70671b286](https://www.linkedin.com/in/higor-silva-70671b286)- **E-mail:** higor_silva97@hotmail.com
 - **Localização:** São Paulo, SP - Brasil
